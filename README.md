@@ -129,4 +129,4 @@ This repository intentionally shows the project as it develops rather than prese
 ## Author
 
 Created as a hands-on data analytics portfolio project.
-[https://www.linkedin.com/in/john-miko-doinog-8a1769397/](LinkedIn)
+LinkedIn: [https://www.linkedin.com/in/john-miko-doinog-8a1769397/]
